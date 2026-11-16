@@ -1,0 +1,8 @@
+# Installed libraries (npm install creates them again)
+node_modules/
+
+# Secrets: never upload the API key
+.env
+
+# Vercel's local settings
+.vercel/
